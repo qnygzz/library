@@ -3739,7 +3739,7 @@
                 LineHeight = 1.75;
                 TextColor3 = rgb(255, 255, 255);
                 BorderColor3 = rgb(0, 0, 0);
-                Text = string.format("[ fecurity.lua ] %s", cfg.name);
+                Text = string.format("[ ocean.gg ] %s", cfg.name);
                 AutomaticSize = Enum.AutomaticSize.XY;
                 Size = dim2(1, -4, 1, 0);
                 Position = dim2(0, 4, 0, -2);
